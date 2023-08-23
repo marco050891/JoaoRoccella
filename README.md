@@ -1,13 +1,13 @@
 ### Olá, pessoal!
 
-Eu sou o João Marcos, instrutor de formação profissional do SENAI São Paulo e docente do curso de Desenvolvedor Front-end do programa Ford Enter, uma parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP. Venha comigo nessa jornada para se tornar um Desenvolvedor Front-end e dar uma guinada na sua carreira.
+Eu sou o João Marcos, instrutor de formação profissional do **SENAI São Paulo** e docente do curso de **Desenvolvedor Front-end** do programa **Ford &lt;ENTER&gt;**, uma parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**. Vamos caminhar juntos essa jornada de aprendizado e fazer decolar sua carreira em tecnologia.
 
-Nesse curso você vai aprender a desenvolver aplicações Front-end Web, vai compreender as principais ferramentas, técnicas e tecnologias envolvidas e se preparar para ingressar no mercado de trabalho.
+Ao longo do curso você vai aprender a desenvolver aplicações Front-end Web, utilizando as principais ferramentas, técnicas e tecnologias envolvidas e vai se preparar para ingressar no mercado de trabalho, colocando suas competências técnicas e socioemocionais à prova.
 
 <div>
   <a href="https://github.com/JoaoRoccella">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoRoccella&show_icons=true&theme=transparent">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRoccella&layout=compact&langs-count=168&theme=transparent">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRoccella&layout=compact&theme=transparent">
   </a>
 </div>
 
